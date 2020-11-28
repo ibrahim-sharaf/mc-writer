@@ -1,5 +1,5 @@
 /*
-** Modem Command Writer, a utility to write AT Commands to Modems.
+** mc-writer, a utility to write AT Commands to Modems.
 ** Author: Ibrahim Sharaf
 */
 
