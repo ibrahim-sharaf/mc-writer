@@ -21,13 +21,13 @@ int main(int argc, char const *argv[])
 
 		else if(strcmp(argv[1], "-about") == 0 )
 		{
-			cout<<"Modem Commmand Writer is a utility to write AT commands to modems"<<endl;
+			cout<<"mc-writer is a utility to write AT commands to modems"<<endl;
 			return 0;
 		}
 
 		else if(strcmp(argv[1], "-h") == 0 || strcmp(argv[1], "-help") == 0)
 		{
-			cout<<"Write modemwriter without arguments to start the command shell"<<endl;
+			cout<<"Write mc-writer without arguments to start the command shell"<<endl;
 			return 0;
 		}
 
