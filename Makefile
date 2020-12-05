@@ -1,5 +1,5 @@
 #
-# Makefile to nuild Modem Command Writer
+# Makefile to build mc-writer
 # Author: Ibarhim Sharaf
 #
 
