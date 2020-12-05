@@ -5,7 +5,7 @@
 
 # Tools
 COMPILER 		= g++
-AR 		 		= ar rcs
+AR 				= ar rcs
 
 # To include path.
 INC_PATH		= -Iinc
