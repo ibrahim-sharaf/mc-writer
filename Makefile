@@ -66,7 +66,7 @@ $(S_LIB_OBJ_PATH)/%.o : $(SRCLIB_PATH)/%.cpp | $(S_LIB_OBJ_PATH)
 $(PATHS_TO_CREATE):
 	@if not exist "$@" mkdir "$@"
 
-# Adjust path names for the del command
+# Adjust paths for the del command
 S_LIB_OBJ_PATH2 	= $(subst /,\, $(S_LIB_OBJ_PATH))
 S_LIB_PATH2 		= $(subst /,\, $(S_LIB_PATH))
 
