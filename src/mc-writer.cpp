@@ -44,7 +44,7 @@ int main(int argc, char const *argv[])
 	if(serial.state == 0) {
 
 		cout<<"Unable to communicate with port"<<endl;
-		cout<<"Make sure you that you have a Modem plugged in your Machine"<<endl;
+		cout<<"Make sure that you have a Modem plugged in your Machine"<<endl;
 		cout<<"Closing ..."<<endl;
 		return 1;
 	}
